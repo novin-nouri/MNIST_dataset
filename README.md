@@ -16,7 +16,11 @@ Create MNIST dataset (with images)
 ## Download 
 You can download dataset from Kaggle
 
-click this [link]() for download
+click **link** for download:
+
+[link 1](https://www.kaggle.com/datasets/novinnouri/mnist-dataset/download?datasetVersionNumber=1)
+
+[link 2](https://www.kaggle.com/datasets/novinnouri/mnist-dataset/data)
 
 ***
 

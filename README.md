@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="files/logo.png" alt="instagram unfollower" width="630" height="123"/>
+    <img src="files/logo.png" alt="mnist" width="630" height="123"/>
 </p>
 
 ***

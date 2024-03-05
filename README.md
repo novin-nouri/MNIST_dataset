@@ -15,7 +15,7 @@ Create MNIST dataset (with images)
 2. RUN `create_mnist_dataset.ipynb`
 
 
-## Screenshot
+## Demo
 <p align="left">
     <img src="files/demo.gif" alt="second" width="800" height="497" />
 </p>

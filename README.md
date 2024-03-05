@@ -8,8 +8,8 @@
 Create MNIST dataset (with images)
 
 - image size: `28 x 28`
-- train shape: `56000 number`
-- test shape:  `14000 number`
+- train shape: `56000 images`
+- test shape:  `14000 images`
 
 ***
 
